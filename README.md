@@ -13,3 +13,11 @@ The calculated analysis are as follows:
  - School performance based on the type of school
  - School performance based on the school population size
 
+### How is the district summary affected?
+ - After adjusting the district analysis and removing the Thomas High School's 9th grades' scores, the district summary has not been affected much. The overall passing percentage has gone down from 65% to 64.9%.
+
+### How is the school summary affected?
+ - After adjusting the school analysis, the school summary remains identical as a district. Thomas High School's summary has been altered trastically from 90.6$ to 65%. 
+
+
+
