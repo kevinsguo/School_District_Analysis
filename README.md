@@ -19,7 +19,7 @@ The calculated analysis are as follows:
 ### How is the school summary affected?
  - After adjusting the school analysis, the school summary remains identical as a district. Thomas High School's summary has been altered trastically from 90.6$ to 65%. 
 ![Thomas_school_after](Resources/Thomas_school_after.PNG)
+ - After replacing the Thomas High School's 9th graders scores with only 10th to 12th grader's scores, the schools' overall passing percentage increased back to 91%.
 ![Thomas_school_before](Resources/Thomas_school_before.png)
-
 
 
